@@ -11,7 +11,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a 6'0" former athlete, I love to learn new things, and I have a phobia of wet doorknobs and squeaky swing sets (ask me why)
 
-![Uploading PLD (Holb Shoot) (2).jpg…]()
+![PLD (Holb Shoot) (2)](https://user-images.githubusercontent.com/58611397/109463907-69ac1600-7a2b-11eb-84f0-77881f7f7992.jpg)
 
 
 

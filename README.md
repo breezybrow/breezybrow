@@ -11,7 +11,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a 6'0" former athlete, I love to learn new things, and I have a phobia of wet doorknobs and squeaky swing sets (ask me why)
 
-* Learn about Holberton School here: https://www.holbertonschool.com/
+**Learn about Holberton School here: https://www.holbertonschool.com/
 
 ![PLD (Holb Shoot) (2)](https://user-images.githubusercontent.com/58611397/109464069-ae37b180-7a2b-11eb-9b98-1e2f0d4a34dc.jpg)
 

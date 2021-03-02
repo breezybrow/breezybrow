@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning the C programming language
 - 👯 I’m looking to collaborate on Shell, C, and front-end web development projects
 - 🤔 I’m looking for help with CSS Stylesheet Language & effective Google Search techniques
-- 💬 Ask me about imposter syndrome in the tech industry, while being a double minority
+- 💬 Ask me about how I handle imposter syndrome in the tech industry, while being a double minority
 - 📫 How to reach me: browder.bree@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a 6'0" former athlete, I love to learn new things, and I have a phobia of wet doorknobs and squeaky swing sets (ask me why)

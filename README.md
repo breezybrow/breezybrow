@@ -3,7 +3,7 @@
 #### My name is Bree Browder and I am pursuing my interests in tech at Holberton School, on a journey to become a certified Software Engineer.
 
 - 🔭 I’m currently working on developing my technical writing and time management skills
-- 🌱 I’m currently learning the C programming language
+- 🌱 I’m currently learning the Python Programming language
 - 👯 I’m looking to collaborate on Shell, C, and front-end web development projects
 - 🤔 I’m looking for help with CSS Stylesheet Language & effective Google Search techniques
 - 💬 Ask me about how I handle imposter syndrome in the tech industry, while being a double minority
